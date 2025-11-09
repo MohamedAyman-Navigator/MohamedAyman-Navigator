@@ -9,15 +9,15 @@ I am a Junior Machine Learning and Data Science Engineer from Egypt, currently s
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
-### 🧩 Programming Languages
+###  Programming Languages
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="50" height="50"/>  
 
-### 🧠 Libraries & Frameworks
+###  Libraries & Frameworks
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/> &nbsp;
@@ -26,10 +26,10 @@ I am a Junior Machine Learning and Data Science Engineer from Egypt, currently s
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="50" height="50"/> &nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="50" height="50"/>  
 
-### 🗄️ Databases
+###  Databases
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50"/>  
 
-### 🧰 Tools & Platforms
+###  Tools & Platforms
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="50" height="50"/> &nbsp;
@@ -38,21 +38,21 @@ I am a Junior Machine Learning and Data Science Engineer from Egypt, currently s
 
 ---
 
-### 📚 Currently Learning
+###  Currently Learning
 I am currently focused on completing the **IBM Data Science Professional Certificate**, diving deeper into **Python, PyTorch, TensorFlow, Machine Learning, and Data Analysis** techniques.
 
-### 🚀 Future Learning Interests
+###  Future Learning Interests
 I am interested in exploring advanced topics in **Deep Learning, Computer Vision, Natural Language Processing, Reinforcement Learning**, and developing more sophisticated **AI-driven platforms**.
 
 ---
 
-## 🚧 Current Projects
+##  Current Projects
 
-### 🤖 AutoML Platform
+###  AutoML Platform
 **An AI-driven platform that automates machine learning workflows** including **model selection, hyperparameter tuning, performance evaluation, and image classification**. This project integrates multiple machine learning techniques to provide efficient, automated solutions for various datasets.
 
 ---
 
-## 🌟 GitHub Stats
+##  GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAyman-Navigator&show_icons=true&theme=tokyonight&hide=contribs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAyman-Navigator&layout=compact&theme=tokyonight)
