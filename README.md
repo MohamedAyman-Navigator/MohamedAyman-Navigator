@@ -1,11 +1,27 @@
 <!-- Profile Header -->
 <h1 align="center"><span style="color:#00bcd4">Mohamed Ayman</span></h1>
+
+<p align="center">
+  <a href="mailto:sharafmedo101@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mosharaf134"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
 <h3 align="center">🤖 Junior Machine Learning & Data Science Engineer | Passionate about AI & Intelligent Systems</h3>
 
 ---
 
 ### 🧠 About Me
-I am a Junior Machine Learning and Data Science Engineer based in Egypt, currently pursuing my studies at the Faculty of AI, Menoufia University, and a dedicated learner of the IBM Data Science Professional Certificate. I am passionate about exploring the intersection of **Artificial Intelligence**, **Automation**, and **Data Science**, with hands-on experience in projects such as AutoML platforms, computer vision applications, and bilingual educational AI tools. My focus lies in building intelligent systems that turn data into actionable insights using **Python**, **PyTorch**, **TensorFlow**, and other machine learning frameworks. I am always seeking opportunities to apply my skills to solve real-world problems while continuously growing as an AI practitioner. You can connect with me via <a href="mailto:sharafmedo101@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/mosharaf134">LinkedIn</a>.
+I am a Junior Machine Learning and Data Science Engineer from Egypt, studying at the Faculty of AI, Menoufia University. I am passionate about **AI, Automation, and Data Science** and building intelligent systems that turn data into actionable insights.
+
+---
+
+### 📚 Currently Learning
+I am currently focused on completing the **IBM Data Science Professional Certificate**, diving deeper into **Python**, **PyTorch**, **TensorFlow**, **Machine Learning**, and **Data Analysis** techniques.
+
+---
+
+### 🚀 Future Learning Interests
+I am interested in exploring advanced topics in **Deep Learning**, **Computer Vision**, **Natural Language Processing**, **Reinforcement Learning**, and developing more sophisticated **AI-driven platforms**.
 
 ---
 
