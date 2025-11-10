@@ -2,7 +2,7 @@
 # Mohamed Ayman Sharaf El-Din
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=50&logoHeight=50)](mailto:sharafmedo101@gmail.com)  
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="25" height="25"/> LinkedIn](https://www.linkedin.com/in/mosharaf134)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mosharaf134)
 
 ## About Me
 I am a Junior Machine Learning and Data Science Engineer from Egypt, currently studying at the Faculty of AI, Menoufia University. I am passionate about AI, Automation, and Data Science, building intelligent systems that turn data into actionable insights.
