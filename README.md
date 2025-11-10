@@ -63,9 +63,9 @@ An AI-driven platform that automates machine learning workflows including model 
 ---
 
 ## GitHub Stats
-## GitHub Stats
-<p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohamedAyman-Navigator&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohamedAyman-Navigator&layout=compact&theme=tokyonight" height="180em"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAyman-Navigator&show_icons=true&theme=tokyonight" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAyman-Navigator&layout=compact&theme=tokyonight" height="185" />
 </p>
+
 
