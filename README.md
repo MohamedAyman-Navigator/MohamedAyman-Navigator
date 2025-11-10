@@ -68,9 +68,5 @@ An AI-driven platform that automates machine learning workflows including model 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAyman-Navigator&layout=compact&theme=tokyonight" height="185" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAyman-Navigator&theme=tokyonight" height="185" />
-</p>
-
 
 
