@@ -36,7 +36,7 @@ I am a Junior Machine Learning and Data Science Engineer from Egypt, currently s
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="70" height="70"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="70" height="70"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="70" height="70"/> &nbsp;
-<img src="https://api.iconify.design/simple-icons:n8n.svg" alt="n8n" width="70" height="70"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/N8n-logo-new.svg" alt="n8n" width="70" height="70"/>
 
 ---
 
