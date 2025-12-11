@@ -64,7 +64,6 @@ An AI-driven platform that automates machine learning workflows including model 
 
 ## GitHub Stats
 <p align="left">
-  <img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api?username=MohamedAyman-Navigator&show_icons=true&theme=tokyonight" height="185" />
-  <img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/top-langs/?username=MohamedAyman-Navigator&layout=compact&theme=tokyonight" height="185" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=MohamedAyman-Navigator&show_icons=true&theme=tokyonight" height="185" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=MohamedAyman-Navigator&layout=compact&theme=tokyonight" height="185" />
 </p>
-
