@@ -36,22 +36,22 @@ I am a Junior Machine Learning and Data Science Engineer from Egypt, currently s
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="70" height="70"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="70" height="70"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="70" height="70"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original.svg" alt="n8n" width="70" height="70"/>
+<img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.svg" alt="n8n" width="70" height="70"/>
 
 ---
 
 ## Currently Learning
-- Completing the IBM Data Science Professional Certificate
-- Advanced Python programming for ML and Data Science
-- Deepening knowledge of PyTorch and TensorFlow
-- Improving Machine Learning and Data Analysis techniques
+- Completing the IBM Data Science Professional Certificate  
+- Advanced Python programming for ML and Data Science  
+- Deepening knowledge of PyTorch and TensorFlow  
+- Improving Machine Learning and Data Analysis techniques  
 
 ## Future Learning Interests
-- Advanced Deep Learning topics
-- Computer Vision and Image Processing
-- Natural Language Processing (NLP)
-- Reinforcement Learning
-- Developing more sophisticated AI-driven platforms
+- Advanced Deep Learning topics  
+- Computer Vision and Image Processing  
+- Natural Language Processing (NLP)  
+- Reinforcement Learning  
+- Developing more sophisticated AI-driven platforms  
 
 ---
 
@@ -64,6 +64,7 @@ An AI-driven platform that automates machine learning workflows including model 
 
 ## GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAyman-Navigator&show_icons=true&theme=tokyonight" height="185" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAyman-Navigator&layout=compact&theme=tokyonight" height="185" />
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=MohamedAyman-Navigator&show_icons=true&theme=tokyonight" height="185" />
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=MohamedAyman-Navigator&layout=compact&theme=tokyonight" height="185" />
 </p>
+
